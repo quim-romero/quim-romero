@@ -1,5 +1,9 @@
 <h1>🚀 Hey, I'm Quim — Frontend Developer</h1>
 
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F5A0&width=435&lines=Open+for+Freelance+Projects;Frontend+Developer;Pixel+Perfect+Code;Motion+Lover"
+  style="display: block; margin-left: 0; margin-top: -10px;"
+/>
 
 ## 💡 Who am I?
 
@@ -8,24 +12,18 @@ I build websites and apps as if they were **real-world-ready products** — mode
 
 > 🎯 My goal: make every project look and feel like it came out of a Silicon Valley startup.
 
-  <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F5A0&width=435&lines=Open+for+Freelance+Projects;Frontend+Developer;Pixel+Perfect+Code;Motion+Lover"
-  alt="Typing animation"
-  style="display: block; margin-left: 0; margin-top: -10px;"
-/>
 ---
 
 ## 🛠️ Main Tech Stack
 
-| Languages | Frameworks / Libraries | Styling | Tools |
-|-----------|-------------------------|---------|-------|
-| JavaScript / TypeScript | React · Next.js · Vite | Tailwind · SCSS · CSS Modules | Git · VS Code · Netlify · Figma |
-| HTML5 · CSS3 | React Router · Zustand · Three.js | Framer Motion · GSAP · AOS | GitHub · EmailJS · Chart.js |
+| Languages               | Frameworks / Libraries            | Styling                       | Tools                           |
+| ----------------------- | --------------------------------- | ----------------------------- | ------------------------------- |
+| JavaScript / TypeScript | React · Next.js · Vite            | Tailwind · SCSS · CSS Modules | Git · VS Code · Netlify · Figma |
+| HTML5 · CSS3            | React Router · Zustand · Three.js | Framer Motion · GSAP · AOS    | GitHub · EmailJS · Chart.js     |
 
 ---
 
 ## ⚡ Featured Projects
-
 
 ---
 
@@ -46,7 +44,7 @@ I build websites and apps as if they were **real-world-ready products** — mode
 I'm open to collaborating on projects where **visual quality** and **technical excellence** matter.  
 **Freelance | Remote | International**
 
-- 📩 **Email:** [quimromero22@email.com]  
+- 📩 **Email:** [quimromero22@email.com]
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/quimromero](https://www.linkedin.com/in/quimromero)
 
 ---
