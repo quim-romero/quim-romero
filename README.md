@@ -1,7 +1,9 @@
-<h1>🚀 Hey, I'm Quim — Frontend Developer</h1>
+<h1 align="center">🚀 Hey, I'm Quim — <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F5A0&width=435&lines=Frontend+Developer;UI%2FUX+Driven;Pixel+Perfect+Code;Motion+Lover;Open+for+Freelance+Projects"/></h1>
 
 
-## 💡 Who am I?  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F5A0&width=435&lines=Frontend+Developer;UI%2FUX+Driven;Pixel+Perfect+Code;Motion+Lover;Open+for+Freelance+Projects" alt="Typing SVG" />
+---
+
+## 💡 Who am I?
 
 Frontend developer with a designer’s mindset, obsessed with crafting **visual interfaces that impress** and **digital experiences that convert**.  
 I build websites and apps as if they were **real-world-ready products** — modern design, animations, performance, and scalable code.
