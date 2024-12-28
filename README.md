@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey, I'm Quim — Frontend Developer turning design into real impact</h1>
+<h1 align="center">🚀 Hey, I'm Quim — Frontend Developer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F5A0&width=435&lines=Frontend+Developer;UI%2FUX+Driven;Pixel+Perfect+Code;Motion+Lover;Open+for+Freelance+Projects" alt="Typing SVG" />
