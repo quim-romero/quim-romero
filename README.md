@@ -1,15 +1,4 @@
-<div align="center">
-
-<h1>🚀 Hey, I'm Quim —</h1>
-
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F5A0&width=435&lines=Frontend+Developer;UI%2FUX+Driven;Pixel+Perfect+Code;Motion+Lover;Open+for+Freelance+Projects" 
-  alt="Typing animation"
-/>
-
-</div>
-
-
+<h1>🚀 Hey, I'm Quim — Frontend Developer</h1>
 
 
 ## 💡 Who am I?
@@ -19,6 +8,11 @@ I build websites and apps as if they were **real-world-ready products** — mode
 
 > 🎯 My goal: make every project look and feel like it came out of a Silicon Valley startup.
 
+  <img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F5A0&width=435&lines=Open+for+Freelance+Projects;Frontend+Developer;Pixel+Perfect+Code;Motion+Lover"
+  alt="Typing animation"
+  style="display: block; margin-left: 0; margin-top: -10px;"
+/>
 ---
 
 ## 🛠️ Main Tech Stack
